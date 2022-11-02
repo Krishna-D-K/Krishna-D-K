@@ -25,10 +25,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-D-K&count_private=true&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krishna-D-K&theme=nightowl&date_format=j%20M%5B%20Y%5D&ring=orange&fire=red)](https://git.io/streak-stats)
-<hr>
 
 [![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=Krishna-D-K&theme=tokyonight&bg_color=011627&title_color=6bbcaf&custom_title=Krishna-D-K's%20Contribution%20Graph&color=70a4fc&point=6bbcaf&area=true&area_color=f1df8e)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+<hr>
 
+<h1>🧑🏽‍💻 Languages and Tools</h1>
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,aws,bootstrap,c,cpp,figma,git,github,nodejs,py,vscode" alt="Languages and Tools" />
 </p>
 <!---
 Krishna-D-K/Krishna-D-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
