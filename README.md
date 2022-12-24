@@ -13,6 +13,7 @@
 > <p> &nbsp &nbsp
 > <a href="https://www.facebook.com/profile.php?id=100074550491680" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/facebook%20(3).png"/></a>&nbsp &nbsp
 > <a href="https://www.instagram.com/krishna_d_k/" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/instagram.png"/></a>&nbsp &nbsp
+> <a href="https://twitter.com/krishna_d_k" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/twitter.png"/></a>&nbsp &nbsp
 > <a href="https://www.linkedin.com/in/krishna-kolte-ba55a123a" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/linkedin.png"/></a>&nbsp &nbsp
 > <a href="mailto:krishnadk8203@gmail.com" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/gmail.png"/></a>
 > </p>
