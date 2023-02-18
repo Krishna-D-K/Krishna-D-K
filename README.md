@@ -1,22 +1,37 @@
 <h1 align="center">✨ Hope you're having a good day!! ✨</h1>
-<img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/pexels-olia-danilevich-4974913%20(1).jpg" alt="err_loading_img">
-<hr><h2>I am <em>Krishna Kolte</em>, undergraduate student at IIT Kharagpur.</h2>
+<h3 align="center">
+  <em>
+  <p>Program something new, a story that sells . . .</p>
+    Code is poetry for those, who have a story to tell . <br></br>
+    <em><div align="right">~anonymous &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;</div></em>
+  </em>
+</h3><hr>
 
+<div style="margin-right=50">
+<img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/peakpx.png?raw=true" alt="err_loading_img" size="contain"  align="right" height=300; width=300>
+</div>
+  <h2>I am Krishna Kolte, passionate <em>full-stack</em> developer.</h2>
+<div style="display=flex width=50%">
+
+- Second year UG at IIT Kharagpur.
 >
-> Development enthusiast
+- Development enthusiast
 >
-> Diving deep into Backend Development
+- Diving deep into Backend Development
 >
-> Looking forward for creative and interesting projects
+- Looking forward for creative and interesting projects
 >
-> How to reach me:
+  - How to reach me: <br/>
 > <p> &nbsp &nbsp
-> <a href="https://www.facebook.com/profile.php?id=100074550491680" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/facebook%20(3).png"/></a>&nbsp &nbsp
-> <a href="https://www.instagram.com/krishna_d_k/" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/instagram.png"/></a>&nbsp &nbsp
-> <a href="https://twitter.com/krishna_d_k" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/twitter.png"/></a>&nbsp &nbsp
-> <a href="https://www.linkedin.com/in/krishna-kolte-ba55a123a" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/linkedin.png"/></a>&nbsp &nbsp
-> <a href="mailto:krishnadk8203@gmail.com" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/gmail.png"/></a>
+> <a href="https://www.facebook.com/profile.php?id=100074550491680" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/facebook%20(3).png?raw=true"/ height=45 width=45></a>&nbsp &nbsp
+> <a href="https://www.instagram.com/krishna_d_k/" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/instagram.png?raw=true"/ height=45 width=45></a>&nbsp &nbsp
+> <a href="https://twitter.com/krishna_d_k" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/twitter.png?raw=true"/ height=45 width=45></a>&nbsp &nbsp
+> <a href="https://www.linkedin.com/in/krishna-kolte-ba55a123a" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/linkedin.png?raw=true"/ height=45 width=45></a>&nbsp &nbsp
+> <a href="mailto:krishnadk8203@gmail.com" target="_blank"><img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/gmail.png?raw=true"/ height=45 width=45></a>
 > </p>
+
+</div>
+
 <hr>
 <h1>🦄 Github Statistics</h1>
 <p display="flex" align-items="center" >
