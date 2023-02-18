@@ -8,7 +8,7 @@
 </h3><hr>
 
 <div style="margin-right=50">
-<img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/peakpx.png?raw=true" alt="err_loading_img" size="contain"  align="right" height=300; width=300>
+<img src="https://github.com/Krishna-D-K/Krishna-D-K/blob/main/peakpx.jpg?raw=true" alt="err_loading_img" size="contain"  align="right" height=300; width=300>
 </div>
   <h2>I am Krishna Kolte, passionate <em>full-stack</em> developer.</h2>
 <div style="display=flex width=50%">
