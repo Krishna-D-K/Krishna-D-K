@@ -34,16 +34,18 @@
 
 <hr>
 <h1>🦄 Github Statistics</h1>
-<p display="flex" align-items="center" >
-  
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-D-K&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-D-K&count_private=true&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Krishna-D-K&theme=nightowl&date_format=j%20M%5B%20Y%5D&ring=orange&fire=red)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Krishna-D-K&theme=nightowl&date_format=j%20M%5B%20Y%5D&ring=orange&fire=red">
 
-[![Krishna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Krishna-D-K&theme=tokyonight&bg_color=011627&title_color=6bbcaf&custom_title=Krishna-D-K's%20Contribution%20Graph&color=70a4fc&point=6bbcaf&area=true&area_color=f1df8e)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+<div align="center" justify-content="space-evenly" display="flex">
+  <img height=220 src="https://github-readme-stats.vercel.app/api?username=Krishna-D-K&count_private=true&show_icons=true&theme=tokyonight">
+  <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-D-K&count_private=true&show_icons=true&theme=tokyonight&langs_count=8">
+</div>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishna-D-K&theme=tokyonight&bg_color=011627&title_color=6bbcaf&custom_title=Krishna-D-K's%20Contribution%20Graph&color=70a4fc&point=6bbcaf&area=true&area_color=f1df8e">
+</div>
 <hr>
 
 <h1>🧑🏽‍💻 Languages and Tools</h1>
