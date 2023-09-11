@@ -44,7 +44,7 @@
   <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-D-K&count_private=true&show_icons=true&theme=tokyonight&langs_count=8">
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishna-D-K&theme=tokyonight&bg_color=011627&title_color=6bbcaf&custom_title=Krishna-D-K's%20Contribution%20Graph&color=70a4fc&point=6bbcaf&area=true&area_color=f1df8e">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-D-K&theme=tokyonight&bg_color=011627&title_color=6bbcaf&custom_title=Krishna-D-K's%20Contribution%20Graph&color=70a4fc&point=6bbcaf&area=true&area_color=f1df8e">
 </div>
 <hr>
 
