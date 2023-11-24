@@ -13,7 +13,7 @@
   <h2>I am Krishna Kolte, passionate <em>full-stack</em> developer.</h2>
 <div style="display=flex width=50%">
 
-- Second year UG at IIT Kharagpur.
+- Third year UG at IIT Kharagpur.
 >
 - Development enthusiast
 >
