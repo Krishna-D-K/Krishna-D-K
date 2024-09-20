@@ -51,7 +51,8 @@
 <h1>🧑🏽‍💻 Languages and Tools</h1>
 <p align="center">
   
-<img src="https://skillicons.dev/icons?i=html,css,js,react,aws,bootstrap,c,cpp,figma,git,github,nodejs,py,vscode" alt="Languages and Tools" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongo,aws,bootstrap,docker" alt="Languages and Tools" /><br />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,fastapi,git,github,bitbucket" alt="Languages and Tools" />
 </p>
 <!---
 Krishna-D-K/Krishna-D-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
